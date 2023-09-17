@@ -1,0 +1,4 @@
+venv/*
+stl_script.egg-info/*
+build/*
+dist/*
